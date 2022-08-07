@@ -1,4 +1,3 @@
 Get your IP Adress easily with a basic API.
 
-
-![get-ip](https://user-images.githubusercontent.com/72857634/183270314-b7d0b49a-6523-4b8b-915d-d4e628711be2.png)
+![image](https://user-images.githubusercontent.com/72857634/183270336-12321c9e-6f4d-477f-b372-95ac413c7acc.png)
